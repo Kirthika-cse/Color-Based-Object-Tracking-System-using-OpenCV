@@ -1,30 +1,43 @@
-🎯 Color-Based-Object-Tracking-System-using-OpenCV-| Real-time color detection and tracking using Python and OpenCV
 
-📖 Overview
-This project implements a real-time color-based object tracking system using OpenCV and Python.
-It detects and tracks colored objects using the HSV (Hue, Saturation, Value) color space, allowing users to dynamically adjust detection parameters through a Tkinter-based GUI.
+🎯Color-Based Object Tracking System using OpenCV
 
-🧠 Key Features
-🎨 Color-based tracking using HSV color scaling.
-🧰 Interactive GUI built with Tkinter for real-time parameter tuning.
-🧮 Data processing with NumPy, Scikit-Image, SciPy, and Pillow.
-📷 Real-time camera input via OpenCV.
-⚙️ Automation support with PyAutoGUI for region capture and scaling.
-🔍 Adjustable Hue, Saturation, and Value sliders for accurate color detection.
-🧑‍💻 Technologies Used
-Programming Language: Python
-Libraries:
-OpenCV
-Pillow (PIL)
-NumPy
-SciPy
-Scikit-Image
-PyAutoGUI
-Tkinter
-⚙️ Installation & Setup
-Clone this repository:
-git clone https://github.com/<your-username>/Color-Based-Object-Tracking-System-using-OpenCV.git
-cd Color-Based-Object-Tracking-System-using-OpenCV
+
+## 📖 Overview
+This project implements a **real-time color-based object tracking system** using **OpenCV** and **Python**.  
+It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)** color space, allowing users to dynamically adjust detection parameters through a **Tkinter-based GUI**.  
+
+---
+
+## 🧠 Key Features
+- 🎨 **Color-based tracking** using HSV color scaling.
+- 🧰 **Interactive GUI** built with Tkinter for real-time parameter tuning.
+- 🧮 **Data processing** with NumPy, Scikit-Image, SciPy, and Pillow.
+- 📷 **Real-time camera input** via OpenCV.
+- ⚙️ **Automation support** with PyAutoGUI for region capture and scaling.
+- 🔍 Adjustable **Hue, Saturation, and Value sliders** for accurate color detection.
+
+---
+
+## 🧑‍💻 Technologies Used
+- **Programming Language:** Python  
+- **Libraries:**  
+  - OpenCV  
+  - Pillow (PIL)  
+  - NumPy  
+  - SciPy  
+  - Scikit-Image  
+  - PyAutoGUI  
+  - Tkinter  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Color-Based-Object-Tracking-System-using-OpenCV.git
+   cd Color-Based-Object-Tracking-System-using-OpenCV
+````
 
 2. Install required dependencies:
 
@@ -37,8 +50,8 @@ cd Color-Based-Object-Tracking-System-using-OpenCV
 3. Run the application:
 
    ```bash
-    python colorCalibrationforHSV.py  (for choosing the HSV values of the object)
-    python main.py
+   python colorCalibrationforHSV.py  (for choosing the HSV values of the object)
+   python main.py
    ```
 
 ---

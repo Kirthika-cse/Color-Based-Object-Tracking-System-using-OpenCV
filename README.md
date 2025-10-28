@@ -2,13 +2,13 @@
 🎯Color-Based Object Tracking System using OpenCV
 
 
-## 📖 Overview
+ 📖 Overview
 This project implements a **real-time color-based object tracking system** using **OpenCV** and **Python**.  
 It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)** color space, allowing users to dynamically adjust detection parameters through a **Tkinter-based GUI**.  
 
 ---
 
-## 🧠 Key Features
+ 🧠 Key Features
 - 🎨 **Color-based tracking** using HSV color scaling.
 - 🧰 **Interactive GUI** built with Tkinter for real-time parameter tuning.
 - 🧮 **Data processing** with NumPy, Scikit-Image, SciPy, and Pillow.
@@ -18,7 +18,7 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 
 ---
 
-## 🧑‍💻 Technologies Used
+🧑‍💻 Technologies Used
 - **Programming Language:** Python  
 - **Libraries:**  
   - OpenCV  
@@ -31,7 +31,7 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
 1. Clone this repository:
    ```bash
@@ -56,7 +56,7 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 
 ---
 
-## 🖥️ How It Works
+ 🖥️ How It Works
 
 1. The system captures video frames through the webcam.
 2. Converts the image from BGR to HSV color space.
@@ -66,14 +66,14 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 
 ---
 
-## 📊 Example Output
+ 📊 Example Output
 
 * Tracks colored objects in real time.
 * Displays object’s contour, center, and movement direction (e.g., Left, Right, Front, Stop).
 
 ---
 
-## 🧩 Future Enhancements
+🧩 Future Enhancements
 
 * Add multi-color tracking support.
 * Integrate object size estimation.
@@ -82,15 +82,15 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 
 ---
 
-## 🏆 Author
+🏆 Author
 
-**Kirthika R S**
+Kirthika R S
 Bachelor of Engineering (Honours) – Computer Science
 [East West Institute of Technology (VTU), Bangalore]
 
 ---
 
-## 📎 License
+📎 License
 
 This project is licensed under the **MIT License** — feel free to use and modify it.
 
